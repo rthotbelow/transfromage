@@ -7,8 +7,8 @@ setup(
 	description = 'Client library for the Transformice game',
 	author = 'Tocutoeltuco - Turkitutu',
 	author_email = 'tocutoeltuco@gmail.com',
-	url = 'https://github.com/Tocutoeltuco/transfromage',
-	download_url = 'https://github.com/Tocutoeltuco/transfromage/archive/v1_0_1.tar.gz',
+	url = 'https://github.com/rthotbelow/transfromage',
+	download_url = 'https://github.com/rthotbelow/transfromage/archive/v1_0_1.tar.gz',
 	keywords = ['TRANFORMICE', 'CLIENT', 'THREADING', 'ATELIER801', 'EVENT'],
 	install_requires=[],
 	classifiers=[
